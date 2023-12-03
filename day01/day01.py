@@ -1,7 +1,7 @@
 ## Input
 with open("input/day01.txt") as f:
   input = f.read()
-  input_lines = input.splitlines()
+input_lines = input.splitlines()
 
 
 ## Part 1

@@ -13,7 +13,7 @@ class Game:
 
 with open("input/day02.txt") as f:
   input = f.read()
-  input_lines = input.splitlines()
+input_lines = input.splitlines()
 
 games = []
 for index, line in enumerate(input_lines):
